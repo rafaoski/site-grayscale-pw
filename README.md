@@ -20,5 +20,5 @@ gulp watch
 #### Folder With all compressed CSS file is inside templates/assets/css
 
 ### References:
-[Tuupola Lazy Load](https://appelsiini.net/projects/lazyload/)
-[Cooke Banner](http://cookiebanner.eu/ )
+[Tuupola Lazy Load](https://appelsiini.net/projects/lazyload/)  
+[Cookie Banner](http://cookiebanner.eu/ )  
