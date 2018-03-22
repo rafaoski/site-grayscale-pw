@@ -14,7 +14,6 @@ $c_opt = [
 // DEFAULT LANGUAGE PREFIX
     'lang_pref' => 'en' 
 ];
-
 // TRANSLATED STRINGS => https://processwire.com/api/multi-language-support/code-i18n/
 // USAGE => echo $t_str['name'];
 $t_str = [
